@@ -7,10 +7,10 @@ Tiêu cực: 0, trung lập: 1, tích cực: 2
 ├── main.ipynb                            
 ├── data.csv                             
 ├── 📂 app/                                 
-    ├── Dockerfile                          
-    ├── phobert_sentiment_model5.keras     
-    ├── requirements.txt
-    ├── server.py
-├── README.md
+│   ├── Dockerfile                          
+│   ├── phobert_sentiment_model5.keras     
+│   ├── requirements.txt
+│   ├── server.py
+└── README.md
 
 
