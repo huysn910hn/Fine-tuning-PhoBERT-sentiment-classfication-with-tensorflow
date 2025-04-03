@@ -1,0 +1,6 @@
+fastapi
+tensorflow
+transformers
+uvicorn
+pydantic
+tf-keras
