@@ -1,6 +1,16 @@
 # Fine-tuning-PhoBERT-sentiment-classfication-with-tensorflow
-Using UIT data
+Sử dụng dữ liệu của UIT
 
-negative: 0; neutral: 1; positive: 2
+Tiêu cực: 0, trung lập: 1, tích cực: 2
+
+📂 Cấu trúc thư mục
+├── main.ipynb                            
+├── data.csv                             
+├── 📂 app/                                 
+    ├── Dockerfile                          
+    ├── phobert_sentiment_model5.keras     
+    ├── requirements.txt
+    ├── server.py
+├── README.md
 
 
