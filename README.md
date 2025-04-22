@@ -3,8 +3,9 @@ Mục tiêu: Phân tích cảm xúc học sinh, sinh viên: Hiểu rõ hơn về
 
 Data: Sử dụng dữ liệu của UIT
 
-Nhãn: tiêu cực: 0, trung lập: 1, tích cực: 2
+Nhãn: tiêu cực: 0, tích cực: 1
 
+Huấn luyện trên google colab sử dụng GPU
 
 ## Cấu trúc thư mục
 
@@ -13,7 +14,7 @@ Nhãn: tiêu cực: 0, trung lập: 1, tích cực: 2
      ├── data.csv                             
      ├── 📂 app/                                 
      │   ├── Dockerfile                 
-     │   ├── phobert_sentiment_model5.keras     
+     │   ├── sentiment_classification_model.keras     
      │   ├── requirements.txt
      │   ├── server.py
      └── README.md
